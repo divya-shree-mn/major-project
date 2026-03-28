@@ -1,0 +1,1 @@
+{"for_loop.c": [{"operation_name": "<", "type_lhs": "int", "type_rhs": "int", "type_result": "int", "count": 0}, {"operation_name": "++", "type_lhs": "int", "type_rhs": "", "type_result": "int", "count": 0}, {"operation_name": "=", "type_lhs": "int", "type_rhs": "int", "type_result": "int", "count": 1}]}

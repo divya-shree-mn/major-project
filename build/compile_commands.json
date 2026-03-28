@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder-lib/CMakeFiles/op-finder-lib.dir/src/OperationFinder.cpp.o -c /home/divya/masters-thesis/op-finder-lib/src/OperationFinder.cpp",
+  "file": "/home/divya/masters-thesis/op-finder-lib/src/OperationFinder.cpp"
+},
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder-lib/CMakeFiles/op-finder-lib.dir/src/OperationStorage.cpp.o -c /home/divya/masters-thesis/op-finder-lib/src/OperationStorage.cpp",
+  "file": "/home/divya/masters-thesis/op-finder-lib/src/OperationStorage.cpp"
+},
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder-lib/CMakeFiles/op-finder-lib.dir/src/OperationFinderAstVisitor.cpp.o -c /home/divya/masters-thesis/op-finder-lib/src/OperationFinderAstVisitor.cpp",
+  "file": "/home/divya/masters-thesis/op-finder-lib/src/OperationFinderAstVisitor.cpp"
+},
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder-lib/CMakeFiles/op-finder-lib.dir/src/OperationFinderAstConsumer.cpp.o -c /home/divya/masters-thesis/op-finder-lib/src/OperationFinderAstConsumer.cpp",
+  "file": "/home/divya/masters-thesis/op-finder-lib/src/OperationFinderAstConsumer.cpp"
+},
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder-lib/CMakeFiles/op-finder-lib.dir/src/OperationFinderAstAction.cpp.o -c /home/divya/masters-thesis/op-finder-lib/src/OperationFinderAstAction.cpp",
+  "file": "/home/divya/masters-thesis/op-finder-lib/src/OperationFinderAstAction.cpp"
+},
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder-lib/CMakeFiles/op-finder-lib.dir/src/OperatorCounter.cpp.o -c /home/divya/masters-thesis/op-finder-lib/src/OperatorCounter.cpp",
+  "file": "/home/divya/masters-thesis/op-finder-lib/src/OperatorCounter.cpp"
+},
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder-lib/CMakeFiles/op-finder-lib.dir/src/WhileLoop.cpp.o -c /home/divya/masters-thesis/op-finder-lib/src/WhileLoop.cpp",
+  "file": "/home/divya/masters-thesis/op-finder-lib/src/WhileLoop.cpp"
+},
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder-lib/CMakeFiles/op-finder-lib.dir/src/OperationLog.cpp.o -c /home/divya/masters-thesis/op-finder-lib/src/OperationLog.cpp",
+  "file": "/home/divya/masters-thesis/op-finder-lib/src/OperationLog.cpp"
+},
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder/CMakeFiles/op-finder.dir/main.cpp.o -c /home/divya/masters-thesis/op-finder/main.cpp",
+  "file": "/home/divya/masters-thesis/op-finder/main.cpp"
+},
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -isystem /home/divya/.conan2/p/catch95371a689a8ee/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder-tests/CMakeFiles/op-finder-tests.dir/main.cpp.o -c /home/divya/masters-thesis/op-finder-tests/main.cpp",
+  "file": "/home/divya/masters-thesis/op-finder-tests/main.cpp"
+},
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -isystem /home/divya/.conan2/p/catch95371a689a8ee/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder-tests/CMakeFiles/op-finder-tests.dir/fixtures/RunOnCodeFixture.cpp.o -c /home/divya/masters-thesis/op-finder-tests/fixtures/RunOnCodeFixture.cpp",
+  "file": "/home/divya/masters-thesis/op-finder-tests/fixtures/RunOnCodeFixture.cpp"
+},
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -isystem /home/divya/.conan2/p/catch95371a689a8ee/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder-tests/CMakeFiles/op-finder-tests.dir/basic_operations.cpp.o -c /home/divya/masters-thesis/op-finder-tests/basic_operations.cpp",
+  "file": "/home/divya/masters-thesis/op-finder-tests/basic_operations.cpp"
+},
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -isystem /home/divya/.conan2/p/catch95371a689a8ee/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder-tests/CMakeFiles/op-finder-tests.dir/branches.cpp.o -c /home/divya/masters-thesis/op-finder-tests/branches.cpp",
+  "file": "/home/divya/masters-thesis/op-finder-tests/branches.cpp"
+},
+{
+  "directory": "/home/divya/masters-thesis/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/divya/masters-thesis/op-finder-lib/include -I/home/divya/llvm-install/include -isystem /home/divya/.conan2/p/nlohmbf333b46de7bb/p/include -isystem /home/divya/.conan2/p/catch95371a689a8ee/p/include -m64 -Wall -Wextra -Wno-unused-parameter -O3 -DNDEBUG -fno-rtti -std=gnu++17 -o op-finder-tests/CMakeFiles/op-finder-tests.dir/function_calls.cpp.o -c /home/divya/masters-thesis/op-finder-tests/function_calls.cpp",
+  "file": "/home/divya/masters-thesis/op-finder-tests/function_calls.cpp"
+}
+]

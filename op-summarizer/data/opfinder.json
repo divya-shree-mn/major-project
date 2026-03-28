@@ -1,0 +1,213 @@
+{
+    "matrix.c": [
+        {
+            "branch_number": 1,
+            "entry": {
+                "operation_name": "=",
+                "type_lhs": "int",
+                "type_result": "int",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 20
+        },
+        {
+            "branch_number": 2,
+            "entry": {
+                "operation_name": "<",
+                "type_lhs": "int",
+                "type_result": "int",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 20
+        },
+        {
+            "branch_number": 2,
+            "entry": {
+                "operation_name": "++",
+                "type_lhs": "int",
+                "type_result": "int",
+                "type_rhs": ""
+            },
+            "entry_type": "basic_operation",
+            "line": 20
+        },
+        {
+            "branch_number": 1,
+            "entry": {
+                "operation_name": "=",
+                "type_lhs": "int",
+                "type_result": "int",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 22
+        },
+        {
+            "branch_number": 2,
+            "entry": {
+                "operation_name": "<",
+                "type_lhs": "int",
+                "type_result": "int",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 22
+        },
+        {
+            "branch_number": 2,
+            "entry": {
+                "operation_name": "++",
+                "type_lhs": "int",
+                "type_result": "int",
+                "type_rhs": ""
+            },
+            "entry_type": "basic_operation",
+            "line": 22
+        },
+        {
+            "branch_number": 0,
+            "entry": {
+                "operation_name": "=",
+                "type_lhs": "unsigned short",
+                "type_result": "unsigned short",
+                "type_rhs": "unsigned short"
+            },
+            "entry_type": "basic_operation",
+            "line": 24
+        },
+        {
+            "branch_number": 0,
+            "entry": {
+                "operation_name": "subscript",
+                "type_lhs": "volatile UInt16 *",
+                "type_result": "unsigned short",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 24
+        },
+        {
+            "branch_number": 0,
+            "entry": {
+                "operation_name": "subscript",
+                "type_lhs": "volatile UInt16 (*)[5]",
+                "type_result": "volatile UInt16 [5]",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 24
+        },
+        {
+            "branch_number": 1,
+            "entry": {
+                "operation_name": "=",
+                "type_lhs": "int",
+                "type_result": "int",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 25
+        },
+        {
+            "branch_number": 2,
+            "entry": {
+                "operation_name": "<",
+                "type_lhs": "int",
+                "type_result": "int",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 25
+        },
+        {
+            "branch_number": 2,
+            "entry": {
+                "operation_name": "++",
+                "type_lhs": "int",
+                "type_result": "int",
+                "type_rhs": ""
+            },
+            "entry_type": "basic_operation",
+            "line": 25
+        },
+        {
+            "branch_number": 0,
+            "entry": {
+                "operation_name": "subscript",
+                "type_lhs": "volatile UInt16 *",
+                "type_result": "unsigned short",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 27
+        },
+        {
+            "branch_number": 0,
+            "entry": {
+                "operation_name": "subscript",
+                "type_lhs": "volatile UInt16 (*)[5]",
+                "type_result": "volatile UInt16 [5]",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 27
+        },
+        {
+            "branch_number": 0,
+            "entry": {
+                "operation_name": "*",
+                "type_lhs": "int",
+                "type_result": "int",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 27
+        },
+        {
+            "branch_number": 0,
+            "entry": {
+                "operation_name": "subscript",
+                "type_lhs": "const UInt16 *",
+                "type_result": "unsigned short",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 27
+        },
+        {
+            "branch_number": 0,
+            "entry": {
+                "operation_name": "subscript",
+                "type_lhs": "const UInt16 (*)[4]",
+                "type_result": "const UInt16 [4]",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 27
+        },
+        {
+            "branch_number": 0,
+            "entry": {
+                "operation_name": "subscript",
+                "type_lhs": "const UInt16 *",
+                "type_result": "unsigned short",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 27
+        },
+        {
+            "branch_number": 0,
+            "entry": {
+                "operation_name": "subscript",
+                "type_lhs": "const UInt16 (*)[5]",
+                "type_result": "const UInt16 [5]",
+                "type_rhs": "int"
+            },
+            "entry_type": "basic_operation",
+            "line": 27
+        }
+    ]
+}

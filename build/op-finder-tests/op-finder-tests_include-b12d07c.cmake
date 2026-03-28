@@ -1,0 +1,5 @@
+if(EXISTS "/home/divya/masters-thesis/build/op-finder-tests/op-finder-tests_tests-b12d07c.cmake")
+  include("/home/divya/masters-thesis/build/op-finder-tests/op-finder-tests_tests-b12d07c.cmake")
+else()
+  add_test(op-finder-tests_NOT_BUILT-b12d07c op-finder-tests_NOT_BUILT-b12d07c)
+endif()
